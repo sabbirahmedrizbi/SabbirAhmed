@@ -1,8 +1,9 @@
-#footer{
-    background-color: grey;
-    border-radius: 20px;
-    text-align: center;
-    padding: 1px;
-    width: 100%;
-    color: white;
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.world1{
+    color: goldenrod;
 }
