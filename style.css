@@ -40,6 +40,10 @@ section{
     color: white;
     font-weight: 700;
 }
+.link1:hover{
+    box-shadow: 5px 5px 20px orangered;
+
+}
 .dream-area{
     background-image: url(Images/dream-bg.png);
     background-repeat: no-repeat;
@@ -48,10 +52,15 @@ section{
 }
 .shadow{
     box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 20px;
     background-color: white;
     height: 65%;
+}
+.shadow:hover{
+    box-shadow: 20px 20px 80px rgb(248, 0, 0);
+    border-radius: 15px;
+    padding: 20px;
 }
 .experience{
     background-image: url(Images/exp-bg.png);
